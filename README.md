@@ -5,7 +5,7 @@ Have you ever been a fan of books but not necessarily like going to the library?
 Originally, the search engine was built as a MERN app using RESTfful API, however, I wanted to also create a project such as this one but utilizing GraphQL and Apollo servers.
 The app itself allows users to create accounts, search Google books api, save books to a dashboard, and remove books from the dashboard. It is good to keep in mind what to potentially buy/read in the future.
 
-[Click Here to test the app out!](https://book-search-engine-dn.herokuapp.com/)
+[Click here to test the app out!](https://book-search-engine-dn.herokuapp.com/)
 
 For example, I was able to search Harry Potter as shown in the image below.
 ![Harry Potter](assets/Dashboard-hp.png)
